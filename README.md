@@ -1,4 +1,4 @@
-# Rimuru-Site
+# Rimuru-Site (FECHADO)
 
 <img style="width: 20%; height: 10%;" src="rimuru.png"/>
 
